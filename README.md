@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sungeuni0208&theme=material-palenight&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sungeuni0208&theme=solarized-light&show_icons=true)
 
 
 <!--
